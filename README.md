@@ -1,5 +1,6 @@
 # Human Resources and Data Visualization Project using PowerBi
-
+  ![Dashboard](https://raw.githubusercontent.com/Bellota22/Dashboard_powerBI/master/dashboard.png)
+      
 ## Description
 
 This Human Resources (HR) project leverages Microsoft PowerBI and CSV files to provide interactive and insightful visualizations of HR data. By processing CSV format data from various sources, we can gain detailed and valuable insights into HR trends such as hiring, employee engagement, retention, performance, and much more.
