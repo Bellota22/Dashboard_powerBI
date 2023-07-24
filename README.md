@@ -1,4 +1,4 @@
-# Human Resources and Data Visualization Project using POWERBI and CSV
+# Human Resources and Data Visualization Project using PowerBi
 
 ## Description
 
@@ -40,6 +40,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - [gvillanuevavega@gmail](mailto:gvillanuevavega@gmail.com)
+ [gvillanuevavega@gmail](mailto:gvillanuevavega@gmail.com)
 
-Project Link: [https://github.com/Bellota22/Dashboard_powerBI](https://github.com/Bellota22/Dashboard_powerBI)
+ [https://github.com/Bellota22/Dashboard_powerBI](https://github.com/Bellota22/Dashboard_powerBI)
